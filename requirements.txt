@@ -1,0 +1,4 @@
+django>=3.0
+pytest>=6.0
+pytest-django>=4.0
+factory-boy>=3.0
